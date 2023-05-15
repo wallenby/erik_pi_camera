@@ -10,6 +10,7 @@ Furthermore, I will be applying my focus Neural Network once I have the user int
 ![my camera](https://github.com/wallenby/erik_pi_camera/assets/83599857/ab4a7ec1-60b4-4f82-bc45-d4704dbb30a2)
 ![69941234762__AE9420F7-6561-4004-86F1-5DD170A433AE](https://github.com/wallenby/erik_pi_camera/assets/83599857/e045ef2e-0d50-4381-88b1-05bff23dbd4a)
 ![69941225962__EC8501A1-AD32-45B4-B23A-0BFFB95A9EEF](https://github.com/wallenby/erik_pi_camera/assets/83599857/f6fc717f-eed3-4b46-824b-4504608ead60)
+(if you're wondering, those $1,000,000 bills are some random religious propaganda ploy that I found on the streets of my campus)  
 
 THIS WAS A BOTCH! It was a concept to see if it would work and so I scramlbed some parts together and made the first version of the camera!
 
