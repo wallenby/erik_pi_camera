@@ -15,7 +15,9 @@ I took this photo with the camera! :D
 
 ![me3](https://github.com/wallenby/erik_pi_camera/assets/83599857/074f817b-d5f3-4e04-87cf-49161e2fe719)
 
-
+Couple of things to note:
+  - It's really hard to nail the focus right now :( Once i configure the neural network I made and get it working with the camera it should hopefully be a lot easier!
+  - still messing around with some other settings but PROGRESS IS BEING MADE!
 
 ##### First Version
 
