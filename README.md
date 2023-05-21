@@ -5,6 +5,18 @@ I'm in the process of making a GUI that allows the user to preview the live feed
 
 Furthermore, I will be applying my focus Neural Network once I have the user interface working properly so that I can obtain better focus in my pictures. 
 
+
+
+### UPDATES! :D
+
+##### Sunday May 21, 2023
+
+I took this photo with the camera! :D
+
+![me3](https://github.com/wallenby/erik_pi_camera/assets/83599857/074f817b-d5f3-4e04-87cf-49161e2fe719)
+
+
+
 ##### First Version
 
 ![my camera](https://github.com/wallenby/erik_pi_camera/assets/83599857/ab4a7ec1-60b4-4f82-bc45-d4704dbb30a2)
